@@ -32,7 +32,7 @@ FACEBOOK: https://www.facebook.com/themefisher
   <meta name="generator" content="Themefisher Small Apps Template v1.0">
 
   <!-- Favicon -->
-  <link rel="shortcut icon" type="image/x-icon" href="{{ asset('small-apps/images/favicon.png')}}" />
+  <link rel="shortcut icon" type="image/x-icon" href="{{asset('images/logo-green.png')}}" />
 
   <!-- PLUGINS CSS STYLE -->
   <link rel="stylesheet" href="{{ asset('small-apps/plugins/bootstrap/bootstrap.min.css')}}">
@@ -149,6 +149,9 @@ FACEBOOK: https://www.facebook.com/themefisher
       </li>
       <li class="list-inline-item">
         <a href="https://medium.com/banglen-th">Blog</a>
+      </li>
+      <li class="list-inline-item">
+        <a href="https://drive.google.com/drive/folders/14Y48n0NzTAqHa3cYalqx4146tEBzj0AK?usp=sharing">Download</a>
       </li>
       <!-- <li class="list-inline-item">
         <a href="privacy-policy.html">Privacy</a>
